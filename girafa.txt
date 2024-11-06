@@ -1,0 +1,2 @@
+nume: girafa
+loc de origine:savana
