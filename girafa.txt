@@ -1,3 +1,3 @@
 nume: girafa
-loc de origine:savananume: Girafa
+nume: Girafa
 Habitat: Savana
