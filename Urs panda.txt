@@ -1,0 +1,2 @@
+Animal: Urs panda
+Adresa: China
