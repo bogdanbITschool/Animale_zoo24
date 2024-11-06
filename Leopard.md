@@ -1,0 +1,2 @@
+# animal: leopard
+Habitat: savana
