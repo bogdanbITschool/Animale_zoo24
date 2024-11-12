@@ -1,0 +1,2 @@
+1.Animal:Pantera
+2.Locatie:Africa.
